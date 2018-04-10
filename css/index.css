@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 563113 */
+  src: url('https://at.alicdn.com/t/font_563113_8q7xr3ymw3f03sor.eot');
+  src: url('https://at.alicdn.com/t/font_563113_8q7xr3ymw3f03sor.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_563113_8q7xr3ymw3f03sor.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_563113_8q7xr3ymw3f03sor.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_563113_8q7xr3ymw3f03sor.svg#iconfont') format('svg');
+}
+body{
+	background: #f5f5f5;
+}
+#head{
+	width: 100%;
+	height: 5.57rem;
+	background: #009dfe;
+	float: left;
+}
+.head_item1_wen1{
+	font-size: 0.50rem;
+	color: #fff;
+	font-weight: 800;
+	line-height: 1.09rem;
+	margin-left: 0.51rem;
+	float: left;
+}
+.head_item1_wenbox{
+	float: right;
+	margin-right: 0.4rem;
+}
+.head_item1_wen2{
+	font-family: 'iconfont';
+	font-size: 0.50rem;
+	color: #fff;
+	font-weight: 800;
+	line-height: 1.09rem;
+	float: left;
+
+}
+.head_item1_wen3{
+	font-family: 'iconfont';
+	margin-left: 0.5rem;
+	font-size: 0.50rem;
+	color: #fff;
+	font-weight: 800;
+	line-height: 1.09rem;
+	float: right;
+}
+.head_item1{
+	width: 100%;
+	height: 1.09rem;
+	/* background: blue; */
+	margin-top: 1rem;
+
+}
+.head_item2{
+	width: 100%;
+	height: 2.10rem;
+	margin-top: 0.68rem;
+}
+.head_item2_touxiang{
+	width: 2.10rem;
+	height: 2.10rem;
+	margin-left: 0.54rem;
+	border-radius: 50%;
+	float: left;
+}
+.head_item2_touxiang img{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.head_item2_xinxi{
+	width: 8.15rem;
+	height: 2.10rem;
+	float: left;
+}
+.head_item2_box{
+	float: left;
+}
+.head_item2_wen2{
+	font-size: 0.41rem;
+	color: #fff;
+	margin-top: 0.54rem;
+	margin-left: 0.55rem;
+}
+.head_item_wen3{
+	font-size: 0.41rem;
+	color: #fff;
+	margin-top: 0.20rem;
+	margin-left: 0.55rem;
+	
+}
+.head_item2_wen4{
+	font-size: 0.51rem;
+	color: #fff;
+	float: right;
+	font-weight: 800;
+	line-height: 2.10rem;
+	margin-right: 0.54rem;
+}
+.qianbao{
+	width: 100%;
+	height: 2.41rem;
+	background: #fff;
+	border-bottom: 0.01rem solid #dddddd;
+	float: left;
+}
+.qianbao_item{
+	width: 3.60rem;
+	height: 2.40rem;
+	border-right: 0.01rem solid #dddddd;
+	float: left;
+}
+.qiaoxiao_item_wen1{
+	
+	line-height: 0.54rem;
+	text-align: center;
+}
+.wen1_w1{
+	font-size: 0.50rem;
+	color: #fff;
+	font-weight: 800;
+	color: #2295ff;
+}
+.wen1_w2{
+	font-size: 0.25rem;
+	color: #fff;
+	margin-left: -0.50rem;
+	color: #2295ff;
+}
+.qiaohao_item_wen2{
+	font-size: 0.32rem;
+	color: #676767;
+	text-align: center;
+	margin-top: 0.20rem;
+}
+.qianbao_item1{
+	border-right: none;
+}
+.second{
+	width: 100%;
+	height: 2.41rem;
+	border-top: 0.01rem solid #dddddd;
+	margin-top: 0.24rem;
+	float: left;
+
+}
+.shouhuo{
+	width: 100%;
+	height: 2.93rem;
+	background: #fff;
+	margin-top: 0.24rem;
+	border-top: 0.01rem solid #dddddd;
+	border-bottom: 0.01rem solid #dddddd;
+	float: left;
+}
+.shouhuo_item{
+	width: 100%;
+	height: 1.44rem;
+	border-bottom:0.01rem solid #dddddd; 
+}
+.shouhuo_wen{
+	font-family: 'iconfont';
+	font-size: 0.54rem;
+	line-height: 1.44rem;
+	color: #49a5f0;
+	margin-left: 0.48rem;
+	float: left;
+}
+.shouhuo_wen1{
+	font-size: 0.44rem;
+	line-height: 1.44rem;
+	margin-left: 0.50rem;
+	float: left;
+}
+.shouhuo_item1{
+	border-bottom: none;
+}
+.shouhuo_wen3{
+	font-size: 0.30rem;  
+	float: right;
+	color: #999999;
+	margin-right: 0.56rem;
+	line-height: 1.44rem;
+}
+.tuijian{
+	width: 100%;
+	height: 8.58rem;
+	background: #fff;
+	float: left;
+	margin-top: 0.24rem;
+}
+.dibu{
+	width: 100%;
+	height: 1.51rem;
+	background: #f7f7f7;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.dibu_item{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.dibu_item img{
+	width: 1.87rem;
+	height: 1.47rem;
+	display: block;
+	margin-left: 0.5rem;
+}
+.dibu{
+	width: 100%;
+	height: 1.51rem;
+	background: #f7f7f7;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.dibu_item{
+	width: 25%;
+	height: 100%;
+	float: left;
+}
+.dibu_item img{
+	width: 0.62rem;
+	height: 0.62rem;
+	display: block;
+	margin-left: 1.00rem;
+	margin-top: 0.3rem;
+	margin-bottom: 0.2rem;
+}
+.dibuwen{
+	font-size: 0.8rem;
+	color: #818181;
+	text-align: center;
+	margin-top: 0.24rem;
+	font-family:'iconfont'; 
+	line-height: 0.8rem;
+}
+.dibu_wen2{
+	font-size: 0.3rem;
+	color: #818181;
+	text-align: center;
+	line-height: 0.3rem;
+}
+.dibu_item:hover{
+	color: #009afb;
+}
